@@ -14,7 +14,7 @@
  </p> -->
 
 <!-- <p align="center"> -->
-<img align="right" height="220px" width="300px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA0OHRsNHQxMGJ3bW56aGU2NzB1MzByYTc2NmNnOXBrZTQ4emVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEYFeE4wJ6jdDVBiiIM/giphy.gif" />
+<!-- <img align="right" height="220px" width="300px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA0OHRsNHQxMGJ3bW56aGU2NzB1MzByYTc2NmNnOXBrZTQ4emVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEYFeE4wJ6jdDVBiiIM/giphy.gif" /> -->
 <!-- </p> -->
 
 
@@ -35,7 +35,7 @@
   </h5>
   -->
 
-- I’m currently working on something cool.
+- 💻 I’m currently working on something cool.
 - 💬 Connect? lets get social 👉🏼 hi.fyzhang@gmail.com
 
 <!-- <p align="center">
