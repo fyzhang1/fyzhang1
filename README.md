@@ -62,6 +62,17 @@
 
 <!--  -->
 
+- Relax with a joke ⬇️
+
+<p align="center" >
+
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobal) -->
+<img src="https://readme-jokes.vercel.app/api?&theme=watermelon" alt="Jokes Card" />
+
+<!-- tokyonight pinkish watermelon halloween-->
+</p>
+
+
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
