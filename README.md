@@ -5,6 +5,9 @@
    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 </div>
 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;Welcome!&center=true&size=27"> </a> </h1>
+
+
 <!-- <p align='center'>
    <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -62,6 +65,7 @@
 
 <!--  -->
 
+
 - Relax with a joke ⬇️
 
 <p align="center" >
@@ -74,13 +78,14 @@
 
 
 
-<p align="center" >
+
+<!--<p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=fyzhang1&&show_icons=true&theme=radical"/>
   </a>
 
 
-</p>
+</p>-->
 
 <!-- <br />
 
@@ -120,6 +125,31 @@
  <!-- ### - What i do -->
 
 
+ ### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=fyzhang1&show_icons=true&theme=tokyonight" align="center" />
+       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyzhang1&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=fyzhang1&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- <br />
 
 <p align="center">
@@ -138,6 +168,9 @@
 <p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1> -->
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fyzhang1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
 
 
 <p align="center">
