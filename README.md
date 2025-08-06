@@ -5,7 +5,7 @@
    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
 </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;Welcome!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href=""> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;Welcome!&center=true&size=27"> </a> </h1>
 
 
 <!-- <p align='center'>
@@ -66,15 +66,13 @@
 <!--  -->
 
 
-- Relax with a joke ⬇️
 
-<p align="center" >
+
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobal) -->
-<img src="https://readme-jokes.vercel.app/api?&theme=watermelon" alt="Jokes Card" />
 
 <!-- tokyonight pinkish watermelon halloween-->
-</p>
+
 
 
 
