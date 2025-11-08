@@ -38,8 +38,7 @@
   </h5>
   -->
 
-- 💻 I’m currently working on something cool.
-- 💬 Connect? lets get social 👉🏼 hi.fyzhang@gmail.com
+- 💬 Email: hi.fyzhang(ατ)gmail.com
 
 <!-- <p align="center">
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
